@@ -1,0 +1,2 @@
+# AwsPraticals
+Aws praticals
